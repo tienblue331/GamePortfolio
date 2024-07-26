@@ -15,7 +15,7 @@ app.get("*", (req, res) => {
 
             if (!data) {
                 
-                res.send("Error occurred in /pool/index.html");
+                res.send("Error occurred in /pool/se.html");
             }
             else {
 
